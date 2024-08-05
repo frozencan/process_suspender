@@ -1,7 +1,7 @@
 
 # Process Suspender
 
-A simple AHK script that handles suspending and resuming of processes conveniently which is otherwise done in windows by going to the Resource Manager app which is quite a headache.
+A simple AHK script that handles suspending and resuming of processes conveniently which is otherwise done in windows by going to the Resource Monitor app which is quite a headache.
 
 ## Requirements
 - **AutoHotkey** - https://www.autohotkey.com
