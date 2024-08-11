@@ -93,9 +93,6 @@ UpdateTrayMenu() {
     Menu, Tray, NoStandard
     Menu, Tray, DeleteAll  ; Clear all existing menu items
     
-    ; Set menu color (light grey background, black text)
-    Menu, Tray, Color, F0F0F0
-    
     ; Add title
     Menu, Tray, Add, ▼ Process Manager, DoNothing
     Menu, Tray, Disable, ▼ Process Manager
