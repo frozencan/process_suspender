@@ -5,6 +5,7 @@ A simple AHK script that handles suspending and resuming of processes convenient
 
 ## Requirements
 - **AutoHotkey** - https://www.autohotkey.com
+- Not really a requirement but just in case it doesn't work
 
 ## Usage
 -  To suspend the current focused process, press **Alt + S**
